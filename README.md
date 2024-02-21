@@ -1,2 +1,2 @@
 # gitdemo6
-this is my new repo
+this is my new repository
